@@ -1,0 +1,8 @@
+(module KeebioSite (layer F.Cu) (tedit 591C730F)
+  (fp_text reference REF** (at 0 0.5) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value https://keeb.io (at 0 0) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+)

@@ -1,0 +1,10 @@
+(module MX_LED (layer F.Cu) (tedit 597B44D8)
+  (fp_text reference L? (at 0 3.302) (layer B.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.2032)) (justify mirror))
+  )
+  (fp_text value LED (at 0 6.858) (layer B.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.2032)) (justify mirror))
+  )
+  (pad 1 thru_hole circle (at -1.27 5.08) (size 1.905 1.905) (drill 0.9906) (layers *.Cu *.SilkS *.Mask))
+  (pad 2 thru_hole rect (at 1.27 5.08) (size 1.905 1.905) (drill 0.9906) (layers *.Cu *.SilkS *.Mask))
+)
