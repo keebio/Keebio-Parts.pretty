@@ -1,6 +1,6 @@
-(module Diode-dual (layer F.Cu) (tedit 5972445D)
+(module Diode-dual (layer F.Cu) (tedit 5A4BD0FA)
   (attr smd)
-  (fp_text reference D** (at -0.0254 0.0508) (layer F.SilkS)
+  (fp_text reference D** (at -0.0254 1.4) (layer F.SilkS)
     (effects (font (size 0.8 0.8) (thickness 0.15)))
   )
   (fp_text value D (at 0 -1.925) (layer F.SilkS) hide
