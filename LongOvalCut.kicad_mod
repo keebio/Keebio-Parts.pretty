@@ -1,0 +1,9 @@
+(module LongOvalCut (layer F.Cu) (tedit 5A93A570)
+  (fp_text reference REF** (at 0 0.5) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value LongOvalCut (at 0 -0.5) (layer F.Fab) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (pad "" np_thru_hole oval (at 0 0) (size 16.66875 0.8) (drill oval 16.66875 0.8) (layers *.Cu *.Mask))
+)
