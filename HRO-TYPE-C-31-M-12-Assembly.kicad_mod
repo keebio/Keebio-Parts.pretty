@@ -1,4 +1,7 @@
-(module HRO-TYPE-C-31-M-12-Assembly (layer F.Cu) (tedit 5B968BF6)
+(module HRO-TYPE-C-31-M-12-Assembly (layer F.Cu) (tedit 5C72191E)
+  (solder_mask_margin 0.05)
+  (solder_paste_margin 0.05)
+  (clearance 0.05)
   (fp_text reference REF** (at 0 -9.25) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
