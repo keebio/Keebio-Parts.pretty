@@ -1,4 +1,4 @@
-(module MX-Alps-Choc-1U (layer F.Cu) (tedit 5CE00D88)
+(module MX-Alps-Choc-1U-No-Clickhole (layer F.Cu) (tedit 5CE30CB9)
   (fp_text reference REF** (at 0 3.175) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -40,7 +40,6 @@
   (pad 1 thru_hole circle (at 0 -5.9) (size 2 2) (drill 1.2) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at -5.5 0 48.1) (size 1.7 1.7) (drill 1.7) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at 5.5 0 48.1) (size 1.7 1.7) (drill 1.7) (layers *.Cu *.Mask))
-  (pad "" np_thru_hole circle (at -5.22 4.2 48.1) (size 0.8 0.8) (drill 0.8) (layers *.Cu *.Mask))
   (pad 3 thru_hole circle (at -1.27 5.08) (size 1.905 1.905) (drill 0.9906) (layers *.Cu *.Mask))
   (pad 4 thru_hole rect (at 1.27 5.08) (size 1.905 1.905) (drill 0.9906) (layers *.Cu *.Mask))
 )
