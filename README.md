@@ -3,4 +3,4 @@ Various KiCAD footprints for mechanical keyboard parts. Accuracy of the footprin
 
 License
 -------
-These case files are released under the MIT License.
+These files are released under the MIT License.
