@@ -1,6 +1,8 @@
 # Keebio-Parts.pretty
 Various KiCAD footprints for mechanical keyboard parts. Accuracy of the footprints are not guaranteed, but a best effort has been made.
 
+For the component symbols of some of these parts, see https://github.com/keebio/keebio-components.
+
 ## Miscellaneous Notes
 
 ### Zig-zag header holes for Pro Micro/Elite-C
