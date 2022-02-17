@@ -60,7 +60,7 @@
   (pad "2" smd rect (at -3.15 1.9) (size 1.7 1) (layers "F.Cu" "F.Paste" "F.Mask"))
   (pad "1" smd rect (at 3.15 -1.9) (size 1.7 1) (layers "F.Cu" "F.Paste" "F.Mask"))
   (pad "1" smd rect (at -3.15 -1.9) (size 1.7 1) (layers "F.Cu" "F.Paste" "F.Mask"))
-  (model "${KISYS3DMOD}/Button_Switch_SMD.3dshapes/SW_SPST_TL3342.step"
+  (model "${KICAD6_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_SPST_TL3342.step"
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

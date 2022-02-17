@@ -43,7 +43,7 @@
   (pad MP thru_hole rect (at 0 5.6) (size 3.2 2) (drill oval 2.8 1.5) (layers *.Cu *.Mask))
   (pad S2 thru_hole circle (at 7 -2.5) (size 2 2) (drill 1) (layers *.Cu *.Mask))
   (pad S1 thru_hole circle (at 7 2.5) (size 2 2) (drill 1) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Rotary_Encoder.3dshapes/RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Rotary_Encoder.3dshapes/RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

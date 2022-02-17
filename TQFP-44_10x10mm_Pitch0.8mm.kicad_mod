@@ -75,7 +75,7 @@
   (pad "3" smd rect (at -5.7 -2.4) (size 1.5 0.55) (layers "F.Cu" "F.Paste" "F.Mask"))
   (pad "2" smd rect (at -5.7 -3.2) (size 1.5 0.55) (layers "F.Cu" "F.Paste" "F.Mask"))
   (pad "1" smd rect (at -5.7 -4) (size 1.5 0.55) (layers "F.Cu" "F.Paste" "F.Mask"))
-  (model "${KISYS3DMOD}/Package_QFP.3dshapes/TQFP-44_10x10mm_P0.8mm.wrl"
+  (model "${KICAD6_3DMODEL_DIR}/Package_QFP.3dshapes/TQFP-44_10x10mm_P0.8mm.wrl"
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

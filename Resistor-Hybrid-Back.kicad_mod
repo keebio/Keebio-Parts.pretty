@@ -32,7 +32,7 @@
     (solder_mask_margin -999))
   (pad 2 thru_hole circle (at -3.9 0) (size 1.6 1.6) (drill 1) (layers *.Cu *.Mask F.SilkS))
   (pad 1 thru_hole circle (at 3.9 0) (size 1.6 1.6) (drill 1) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Resistors_SMD.3dshapes/R_0805.step
+  (model ${KICAD6_3DMODEL_DIR}/Resistors_SMD.3dshapes/R_0805.step
     (offset (xyz 0 0 -1.6))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 180 0))

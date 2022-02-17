@@ -38,7 +38,7 @@
   (pad "2" smd rect (at 0.95 1) (size 0.6 0.7) (layers "F.Cu" "F.Paste" "F.Mask"))
   (pad "3" smd rect (at 0.95 -1) (size 0.6 0.7) (layers "F.Cu" "F.Paste" "F.Mask"))
   (pad "4" smd rect (at -0.95 -1) (size 0.6 0.7) (layers "F.Cu" "F.Paste" "F.Mask"))
-  (model "${KISYS3DMOD}/Package_TO_SOT_SMD.3dshapes/SOT-143.step"
+  (model "${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-143.step"
     (at (xyz 0 0 0))
     (scale (xyz 0.9 1 0.7))
     (rotate (xyz 0 0 -90))

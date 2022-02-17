@@ -70,7 +70,7 @@
   (pad 4 thru_hole oval (at 0.2286 7.62) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask))
   (pad 5 thru_hole oval (at -0.2286 10.16) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask))
   (pad 6 thru_hole oval (at 0.2286 12.7) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Socket_Strips.3dshapes/Socket_Strip_Straight_1x06_Pitch2.54mm.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Socket_Strips.3dshapes/Socket_Strip_Straight_1x06_Pitch2.54mm.wrl
     (offset (xyz 0 -6.349999904632568 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 270))

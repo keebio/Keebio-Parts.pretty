@@ -24,7 +24,7 @@
   (pad "1" smd rect (at 1.8 -1.1) (size 0.7 0.5) (layers "F.Cu" "F.Paste" "F.Mask"))
   (pad "2" smd rect (at -1.8 1.1) (size 0.7 0.5) (layers "F.Cu" "F.Paste" "F.Mask"))
   (pad "2" smd rect (at 1.8 1.1) (size 0.7 0.5) (layers "F.Cu" "F.Paste" "F.Mask"))
-  (model "${KISYS3DMOD}/Button_Switch_SMD.3dshapes/SW_SPST_PTS645.step"
+  (model "${KICAD6_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_SPST_PTS645.step"
     (at (xyz 0 0 0))
     (scale (xyz 0.48 0.48 0.2))
     (rotate (xyz 0 0 0))

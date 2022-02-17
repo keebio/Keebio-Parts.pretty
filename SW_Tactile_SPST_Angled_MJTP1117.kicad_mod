@@ -35,7 +35,7 @@
   (pad 1 thru_hole circle (at 0 0) (size 1.75 1.75) (drill 0.99) (layers *.Cu *.Mask))
   (pad "" thru_hole circle (at -1 2.49) (size 2.1 2.1) (drill 1.3) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at 2.5 -1.21) (size 1.2 1.2) (drill 1.2) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Buttons_Switches_THT.3dshapes/SW_Tactile_SPST_Angled_PTS645Vx39-2LFS.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Buttons_Switches_THT.3dshapes/SW_Tactile_SPST_Angled_PTS645Vx39-2LFS.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

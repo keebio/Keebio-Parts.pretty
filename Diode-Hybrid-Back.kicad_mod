@@ -22,7 +22,7 @@
   (pad 1 smd rect (at 2.5 0) (size 2.9 0.5) (layers B.Cu))
   (pad 2 thru_hole circle (at -3.9 0) (size 1.6 1.6) (drill 1) (layers *.Cu *.Mask F.SilkS))
   (pad 1 thru_hole rect (at 3.9 0) (size 1.6 1.6) (drill 1) (layers *.Cu *.Mask F.SilkS))
-  (model ${KISYS3DMOD}/Diodes_SMD.3dshapes/D_SOD-123.step
+  (model ${KICAD6_3DMODEL_DIR}/Diodes_SMD.3dshapes/D_SOD-123.step
     (offset (xyz 0 0 -1.8))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 180 0))
