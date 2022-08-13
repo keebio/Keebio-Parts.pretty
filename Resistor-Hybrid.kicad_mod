@@ -38,7 +38,7 @@
     (solder_mask_margin -999))
   (pad 1 smd rect (at 2.5 0) (size 2.9 0.5) (layers F.Cu)
     (solder_mask_margin -999))
-  (model ${KISYS3DMOD}/Resistors_SMD.3dshapes/R_0805.step
+  (model ${KICAD6_3DMODEL_DIR}/Resistors_SMD.3dshapes/R_0805.step
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

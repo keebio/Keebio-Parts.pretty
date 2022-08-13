@@ -26,7 +26,7 @@
   (pad "7" thru_hole circle (at -0.2286 15.19) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask))
   (pad "12" thru_hole oval (at 0.2286 27.89) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask))
   (pad "9" thru_hole oval (at -0.2286 20.27) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask))
-  (model "${KISYS3DMOD}/Socket_Strips.3dshapes/Socket_Strip_Straight_1x06_Pitch2.54mm.wrl"
+  (model "${KICAD6_3DMODEL_DIR}/Socket_Strips.3dshapes/Socket_Strip_Straight_1x06_Pitch2.54mm.wrl"
     (offset (xyz 0 -6.349999904632568 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 270))

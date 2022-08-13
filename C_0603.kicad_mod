@@ -16,7 +16,7 @@
     (clearance 0.1))
   (pad "1" smd rect (at -0.75 0) (size 0.8 0.75) (layers "F.Cu" "F.Paste" "F.Mask")
     (clearance 0.1))
-  (model "${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step"
+  (model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0603_1608Metric.step"
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
