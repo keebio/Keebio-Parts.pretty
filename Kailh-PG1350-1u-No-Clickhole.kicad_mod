@@ -32,8 +32,8 @@
   (pad "" np_thru_hole circle (at 0 0 180) (size 3.4 3.4) (drill 3.4) (layers *.Cu *.Mask) (tstamp 15ea35a4-6e6d-4233-a9bf-9cc93e416313))
   (pad "4" thru_hole rect (at -1.27 -4.7 180) (size 1.905 1.905) (drill 0.9906) (layers *.Cu *.Mask) (tstamp 25d3ccc6-56d0-46a1-bc88-79563d4d33f3))
   (pad "3" thru_hole roundrect (at 1.27 -4.7 180) (size 1.905 1.905) (drill 0.9906) (layers *.Cu *.Mask) (roundrect_rratio 0.25) (tstamp 0cee3a60-0798-4fa8-bdab-6d2bf99c3f5a))
-  (pad "1" thru_hole circle (at 0 5.9 180) (size 2 2) (drill 1.2) (layers *.Cu *.Mask) (tstamp 2b51cb66-92c8-46f1-93aa-6e8c50bdd493))
-  (pad "2" thru_hole circle (at -5 3.8 41.9) (size 2 2) (drill 1.2) (layers *.Cu *.Mask) (tstamp 20a824e9-2293-490a-942f-4f1722208eba))
+  (pad "1" thru_hole circle (at 0 5.9 180) (size 2.25 2.25) (drill 1.47) (layers *.Cu *.Mask) (tstamp 2b51cb66-92c8-46f1-93aa-6e8c50bdd493))
+  (pad "2" thru_hole circle (at -5 3.8 41.9) (size 2.25 2.25) (drill 1.47) (layers *.Cu *.Mask) (tstamp 20a824e9-2293-490a-942f-4f1722208eba))
   (pad "" np_thru_hole circle (at -5.5 0 180) (size 1.7 1.7) (drill 1.7) (layers *.Cu *.Mask) (tstamp b38fc63e-046d-4c1a-9780-53e82851872b))
   (pad "" np_thru_hole circle (at 5.5 0 180) (size 1.7 1.7) (drill 1.7) (layers *.Cu *.Mask) (tstamp b7e99e1d-64c5-4819-be66-477102a6d4e5))
   (model "/Users/danny/Documents/proj/custom-keyboard/kicad-libs/3d_models/mx-switch.wrl"
