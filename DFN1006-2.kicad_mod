@@ -240,6 +240,7 @@
 	(fp_text user "${REFERENCE}"
 		(at -0.127 -1.35 0)
 		(layer "F.Fab")
+		(hide yes)
 		(uuid "04af5aee-23bb-44de-80c6-34c991b7b87b")
 		(effects
 			(font
